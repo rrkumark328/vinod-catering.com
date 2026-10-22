@@ -1,0 +1,9 @@
+VINOD CATERING & TENT SERVICE WEBSITE v3
+
+1. Extract the ZIP completely.
+2. Keep index.html and the assets folder together.
+3. Open index.html in your browser.
+4. CSS and JavaScript are embedded into index.html to make local preview more reliable.
+5. The assets are temporary storyboard preview crops; replace them with approved real business photos before publishing.
+
+The query form prepares a WhatsApp message to 91989713967. It does not store queries online or automatically notify all five business numbers.
